@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '1176'
     url: http://www.gutenberg.org/2009/agents/1176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41154#The-Walking-Delegate
 gutenberg_issued: '2012-10-23'
 gutenberg_type: Text
 identifiers:
