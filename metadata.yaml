@@ -1,0 +1,41 @@
+_repo: The-Walking-Delegate_41154
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+covers:
+- cover_type: archival
+  image_path: 41154-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Scott, Leroy
+    birthdate: 1875
+    deathdate: 1929
+    gutenberg_agent_id: '1176'
+    url: http://www.gutenberg.org/2009/agents/1176
+description: ''
+gutenberg_issued: '2012-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Strikes and lockouts -- Fiction'
+- !lcsh 'Construction industry -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Labor unions -- Fiction'
+title: The Walking Delegate
+url: http://www.gutenberg.org/ebooks/41154
